@@ -1,9 +1,5 @@
 {
-    "sip-calls": [
-        {
-            "username" : "foo",
-            "access_code" : "bar",
-            "number": 243
-        }
-    ]
-  }
+    "username" : "foo",
+    "access_code" : "bar",
+    "number": 243
+}
