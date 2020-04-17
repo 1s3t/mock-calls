@@ -1,5 +1,7 @@
-{
-    "username" : "foo",
-    "access_code" : "bar",
-    "number": 243
+{ 
+    "sip-call" : {
+        "username" : "foo",
+        "access_code" : "bar",
+        "number": 243
+    }
 }
